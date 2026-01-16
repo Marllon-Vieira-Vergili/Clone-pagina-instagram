@@ -1,3 +1,13 @@
+<h1>IMAGENS</h1>
+
+<div>
+  <img width="1024" height="768" alt="Image" src="https://github.com/user-attachments/assets/68888382-03cb-4031-8249-04a1bb6190ba" />
+  <hr/>
+<img width="1024" height="768" alt="Image" src="https://github.com/user-attachments/assets/f093729e-5989-4b94-be22-5a7176369acf" />
+</div>
+
+<hr/>
+
 # 📸 Página Instagram Clone
 
 Este projeto é apenas um **exercício de estudo** para praticar **HTML e CSS**.  
